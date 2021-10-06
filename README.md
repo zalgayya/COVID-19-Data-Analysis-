@@ -1,9 +1,10 @@
 
-# Project Workspace
+# Contributors 
 
-This repl gives you a place to put your project work.  Plese add your data and script files to this workspace.
-
-Note that you can add files from your computer by dragging them in to the files pane
+- Zaid Al-gayyali
+- Hasen Romani
+- Mazen Bahgat
+- Jake McAuley
 
 
 # Data set locations
